@@ -1,0 +1,101 @@
+[
+  {
+    "sel": "Más de 3.5 Tarjetas Amarillas Totales (X-1)",
+    "orig_sel": "Más de 4.5 Tarjetas Amarillas Totales",
+    "cat": "Partido - Tarjetas Totales",
+    "cr": 1.66,
+    "w": 15,
+    "n": 20,
+    "hr": 75.0,
+    "be": 1.33,
+    "ev": 24.5
+  },
+  {
+    "sel": "Más de 2.5 Tarjetas Amarillas Totales (X-2)",
+    "orig_sel": "Más de 4.5 Tarjetas Amarillas Totales",
+    "cat": "Partido - Tarjetas Totales",
+    "cr": 1.28,
+    "w": 19,
+    "n": 20,
+    "hr": 95.0,
+    "be": 1.05,
+    "ev": 21.6
+  },
+  {
+    "sel": "Más de 7.5 Tiros a Puerta Totales (X-1)",
+    "orig_sel": "Más de 8.5 Tiros a Puerta Totales",
+    "cat": "Partido - Tiros a Puerta Totales",
+    "cr": 1.28,
+    "w": 11,
+    "n": 13,
+    "hr": 84.6,
+    "be": 1.18,
+    "ev": 8.3
+  },
+  {
+    "sel": "Julián Álvarez — Más de 0.5 Faltas recibidas (X-1 / Suelo)",
+    "orig_sel": "Julián Álvarez — Más de 1.5 Faltas recibidas",
+    "cat": "Player - Faltas Recibidas",
+    "cr": 1.36,
+    "w": 34,
+    "n": 43,
+    "hr": 79.1,
+    "be": 1.26,
+    "ev": 7.6
+  },
+  {
+    "sel": "Manu Sánchez — Más de 1.5 Entradas / Tackles (X-1)",
+    "orig_sel": "Manu Sánchez — Más de 2.5 Entradas / Tackles",
+    "cat": "Player - Entradas",
+    "cr": 1.28,
+    "w": 42,
+    "n": 53,
+    "hr": 79.2,
+    "be": 1.26,
+    "ev": 1.4
+  },
+  {
+    "sel": "Más de 1.5 Goles Totales (X-1)",
+    "orig_sel": "Más de 2.5 Goles Totales",
+    "cat": "Goles - Más de (Overs)",
+    "cr": 1.16,
+    "w": 13,
+    "n": 15,
+    "hr": 86.7,
+    "be": 1.15,
+    "ev": 0.6
+  },
+  {
+    "sel": "Julián Álvarez — Más de 1.5 Tiros Totales (X-1)",
+    "orig_sel": "Julián Álvarez — Más de 2.5 Tiros Totales",
+    "cat": "Player - Tiros Totales",
+    "cr": 1.18,
+    "w": 56,
+    "n": 68,
+    "hr": 82.4,
+    "be": 1.21,
+    "ev": -2.8
+  },
+  {
+    "sel": "Atlético de Madrid — Más de 3.5 Tiros a Puerta (X-1)",
+    "orig_sel": "Atlético de Madrid — Más de 4.5 Tiros a Puerta",
+    "cat": "Equipo - Tiros a Puerta",
+    "cr": 1.2,
+    "w": 16,
+    "n": 22,
+    "hr": 72.7,
+    "be": 1.37,
+    "ev": -12.8
+  },
+  {
+    "sel": "Atlético de Madrid — Más de 3.5 Córners (X-1)",
+    "orig_sel": "Atlético de Madrid — Más de 4.5 Córners",
+    "cat": "Equipo - Córners de un Equipo",
+    "cr": 1.25,
+    "w": 11,
+    "n": 18,
+    "hr": 61.1,
+    "be": 1.64,
+    "ev": -23.6
+  }
+]

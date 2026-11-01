@@ -1,0 +1,244 @@
+[
+  {
+    "estrategia": "Opción A: Máximo EV / Edge Puro",
+    "ev_total": 0.4369,
+    "prob_al_menos_2_aciertos": "64.2%",
+    "prob_al_menos_1_acierto": "93.6%",
+    "hr_promedio": "59.5%",
+    "bala_1": {
+      "tipo": "Doble (2 Legs)",
+      "cr": 2.08,
+      "hr": 67.8,
+      "be": 1.47,
+      "ev": 0.4111,
+      "legs": [
+        {
+          "leg_id": "L10",
+          "desc": "Álex Baena — Más de 0.5 Entradas / Tackles",
+          "cr": 1.36,
+          "hr": 84.8,
+          "be": 1.18,
+          "ev": 0.1533,
+          "category": "Player - Entradas",
+          "player": "Álex Baena"
+        },
+        {
+          "leg_id": "L21",
+          "desc": "Más de 2.5 Goles Totales",
+          "cr": 1.53,
+          "hr": 80.0,
+          "be": 1.25,
+          "ev": 0.224,
+          "category": "Goles - Más de (Overs)",
+          "player": null
+        }
+      ]
+    },
+    "bala_2": {
+      "tipo": "Simple (1 Leg)",
+      "cr": 1.83,
+      "hr": 57.9,
+      "be": 1.73,
+      "ev": 0.0596,
+      "legs": [
+        {
+          "leg_id": "L3",
+          "desc": "Alejandro Grimaldo — Más de 0.5 Tiros a Puerta",
+          "cr": 1.83,
+          "hr": 57.9,
+          "be": 1.73,
+          "ev": 0.0596,
+          "category": "Player - Tiros a Puerta (TAP)",
+          "player": "Alejandro Grimaldo"
+        }
+      ]
+    },
+    "bala_3": {
+      "tipo": "Simple (1 Leg)",
+      "cr": 1.83,
+      "hr": 52.8,
+      "be": 1.89,
+      "ev": -0.0338,
+      "legs": [
+        {
+          "leg_id": "L6",
+          "desc": "Manu Sánchez — Más de 2.5 Entradas / Tackles",
+          "cr": 1.83,
+          "hr": 52.8,
+          "be": 1.89,
+          "ev": -0.0338,
+          "category": "Player - Entradas",
+          "player": "Manu Sánchez"
+        }
+      ]
+    }
+  },
+  {
+    "estrategia": "Opción Alternativa #2",
+    "ev_total": 0.3838,
+    "prob_al_menos_2_aciertos": "59.9%",
+    "prob_al_menos_1_acierto": "92.3%",
+    "hr_promedio": "56.6%",
+    "bala_1": {
+      "tipo": "Doble (2 Legs)",
+      "cr": 2.08,
+      "hr": 67.8,
+      "be": 1.47,
+      "ev": 0.4111,
+      "legs": [
+        {
+          "leg_id": "L10",
+          "desc": "Álex Baena — Más de 0.5 Entradas / Tackles",
+          "cr": 1.36,
+          "hr": 84.8,
+          "be": 1.18,
+          "ev": 0.1533,
+          "category": "Player - Entradas",
+          "player": "Álex Baena"
+        },
+        {
+          "leg_id": "L21",
+          "desc": "Más de 2.5 Goles Totales",
+          "cr": 1.53,
+          "hr": 80.0,
+          "be": 1.25,
+          "ev": 0.224,
+          "category": "Goles - Más de (Overs)",
+          "player": null
+        }
+      ]
+    },
+    "bala_2": {
+      "tipo": "Doble (2 Legs)",
+      "cr": 2.05,
+      "hr": 49.1,
+      "be": 2.04,
+      "ev": 0.0065,
+      "legs": [
+        {
+          "leg_id": "L3",
+          "desc": "Alejandro Grimaldo — Más de 0.5 Tiros a Puerta",
+          "cr": 1.83,
+          "hr": 57.9,
+          "be": 1.73,
+          "ev": 0.0596,
+          "category": "Player - Tiros a Puerta (TAP)",
+          "player": "Alejandro Grimaldo"
+        },
+        {
+          "leg_id": "L13",
+          "desc": "Ifeanyi Ndukwe — Más de 0.5 Entradas / Tackles",
+          "cr": 1.12,
+          "hr": 84.8,
+          "be": 1.18,
+          "ev": -0.0502,
+          "category": "Player - Entradas",
+          "player": "Ifeanyi Ndukwe"
+        }
+      ]
+    },
+    "bala_3": {
+      "tipo": "Simple (1 Leg)",
+      "cr": 1.83,
+      "hr": 52.8,
+      "be": 1.89,
+      "ev": -0.0338,
+      "legs": [
+        {
+          "leg_id": "L6",
+          "desc": "Manu Sánchez — Más de 2.5 Entradas / Tackles",
+          "cr": 1.83,
+          "hr": 52.8,
+          "be": 1.89,
+          "ev": -0.0338,
+          "category": "Player - Entradas",
+          "player": "Manu Sánchez"
+        }
+      ]
+    }
+  },
+  {
+    "estrategia": "Opción Alternativa #3",
+    "ev_total": 0.3396,
+    "prob_al_menos_2_aciertos": "59.9%",
+    "prob_al_menos_1_acierto": "92.3%",
+    "hr_promedio": "56.6%",
+    "bala_1": {
+      "tipo": "Doble (2 Legs)",
+      "cr": 2.08,
+      "hr": 67.8,
+      "be": 1.47,
+      "ev": 0.4111,
+      "legs": [
+        {
+          "leg_id": "L10",
+          "desc": "Álex Baena — Más de 0.5 Entradas / Tackles",
+          "cr": 1.36,
+          "hr": 84.8,
+          "be": 1.18,
+          "ev": 0.1533,
+          "category": "Player - Entradas",
+          "player": "Álex Baena"
+        },
+        {
+          "leg_id": "L21",
+          "desc": "Más de 2.5 Goles Totales",
+          "cr": 1.53,
+          "hr": 80.0,
+          "be": 1.25,
+          "ev": 0.224,
+          "category": "Goles - Más de (Overs)",
+          "player": null
+        }
+      ]
+    },
+    "bala_2": {
+      "tipo": "Simple (1 Leg)",
+      "cr": 1.83,
+      "hr": 52.8,
+      "be": 1.89,
+      "ev": -0.0338,
+      "legs": [
+        {
+          "leg_id": "L6",
+          "desc": "Manu Sánchez — Más de 2.5 Entradas / Tackles",
+          "cr": 1.83,
+          "hr": 52.8,
+          "be": 1.89,
+          "ev": -0.0338,
+          "category": "Player - Entradas",
+          "player": "Manu Sánchez"
+        }
+      ]
+    },
+    "bala_3": {
+      "tipo": "Doble (2 Legs)",
+      "cr": 1.96,
+      "hr": 49.1,
+      "be": 2.04,
+      "ev": -0.0377,
+      "legs": [
+        {
+          "leg_id": "L3",
+          "desc": "Alejandro Grimaldo — Más de 0.5 Tiros a Puerta",
+          "cr": 1.83,
+          "hr": 57.9,
+          "be": 1.73,
+          "ev": 0.0596,
+          "category": "Player - Tiros a Puerta (TAP)",
+          "player": "Alejandro Grimaldo"
+        },
+        {
+          "leg_id": "L15",
+          "desc": "Jon Ander Olasagasti — Más de 0.5 Entradas / Tackles",
+          "cr": 1.071,
+          "hr": 84.8,
+          "be": 1.18,
+          "ev": -0.0918,
+          "category": "Player - Entradas",
+          "player": "Jon Ander Olasagasti"
+        }
+      ]
+    }
+  }
+]
